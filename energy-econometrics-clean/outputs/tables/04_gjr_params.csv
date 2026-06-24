@@ -1,0 +1,7 @@
+param,estimate
+mu,-0.0055
+omega,0.7911
+alpha[1],0.1864
+gamma[1],-0.0139
+beta[1],0.7974
+nu,4.0998

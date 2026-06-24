@@ -1,0 +1,10 @@
+stat,value
+start,1997-01-08
+end,2023-04-25
+n_obs,6860
+price_min,1.05
+price_max,23.86
+ret_mean_ann_%,-2.01
+ret_vol_ann_%,81.45
+ret_skew,-0.173
+ret_exkurt,50.88

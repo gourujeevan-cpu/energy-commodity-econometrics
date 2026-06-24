@@ -1,0 +1,5 @@
+test,statistic,p_value
+Ljung-Box Q(10) on squared returns,3920.3,0.0
+Engle ARCH-LM(10),2472.6,0.0
+excess kurtosis (unconditional),50.88,
+skewness (unconditional),-0.173,

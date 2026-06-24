@@ -1,0 +1,4 @@
+model,log_lik,n_params,AIC,BIC,selected
+"EGARCH(1,1)",-18395.1,6,36802.2,36843.2,<= best AIC
+"GARCH(1,1)",-18427.0,5,36863.9,36898.1,
+"GJR-GARCH(1,1)",-18426.8,6,36865.6,36906.6,
